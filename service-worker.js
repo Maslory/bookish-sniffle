@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/todolist_penguin/precache-manifest.c2d16e09c035d42161b14bf0b6dfef3b.js"
+  "/todolist_penguin/precache-manifest.8f5be2183fc4dd591351d30ecf7c15b2.js"
 );
 
 self.addEventListener('message', (event) => {
