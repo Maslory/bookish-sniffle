@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/todolist_penguin/static/css/main.b140e63d.chunk.css",
-    "main.js": "/todolist_penguin/static/js/main.4dc01cba.chunk.js",
-    "main.js.map": "/todolist_penguin/static/js/main.4dc01cba.chunk.js.map",
-    "runtime-main.js": "/todolist_penguin/static/js/runtime-main.33ce258c.js",
-    "runtime-main.js.map": "/todolist_penguin/static/js/runtime-main.33ce258c.js.map",
-    "static/js/2.457e9618.chunk.js": "/todolist_penguin/static/js/2.457e9618.chunk.js",
-    "static/js/2.457e9618.chunk.js.map": "/todolist_penguin/static/js/2.457e9618.chunk.js.map",
+    "main.css": "/todolist_penguin/static/css/main.77cd08ad.chunk.css",
+    "main.js": "/todolist_penguin/static/js/main.6f2d35a1.chunk.js",
+    "main.js.map": "/todolist_penguin/static/js/main.6f2d35a1.chunk.js.map",
+    "runtime-main.js": "/todolist_penguin/static/js/runtime-main.d27201bd.js",
+    "runtime-main.js.map": "/todolist_penguin/static/js/runtime-main.d27201bd.js.map",
+    "static/js/2.b45b37db.chunk.js": "/todolist_penguin/static/js/2.b45b37db.chunk.js",
+    "static/js/2.b45b37db.chunk.js.map": "/todolist_penguin/static/js/2.b45b37db.chunk.js.map",
     "index.html": "/todolist_penguin/index.html",
-    "precache-manifest.8f5be2183fc4dd591351d30ecf7c15b2.js": "/todolist_penguin/precache-manifest.8f5be2183fc4dd591351d30ecf7c15b2.js",
+    "precache-manifest.6cfa9e571d815938f23c4ac7b1830b9d.js": "/todolist_penguin/precache-manifest.6cfa9e571d815938f23c4ac7b1830b9d.js",
     "service-worker.js": "/todolist_penguin/service-worker.js",
-    "static/css/main.b140e63d.chunk.css.map": "/todolist_penguin/static/css/main.b140e63d.chunk.css.map",
-    "static/js/2.457e9618.chunk.js.LICENSE.txt": "/todolist_penguin/static/js/2.457e9618.chunk.js.LICENSE.txt",
+    "static/css/main.77cd08ad.chunk.css.map": "/todolist_penguin/static/css/main.77cd08ad.chunk.css.map",
+    "static/js/2.b45b37db.chunk.js.LICENSE.txt": "/todolist_penguin/static/js/2.b45b37db.chunk.js.LICENSE.txt",
     "static/media/style.sass": "/todolist_penguin/static/media/Roboto.58bf8e0b.woff",
     "static/media/iconmonstr-trash-can-1.svg": "/todolist_penguin/static/media/iconmonstr-trash-can-1.6375717a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.33ce258c.js",
-    "static/js/2.457e9618.chunk.js",
-    "static/css/main.b140e63d.chunk.css",
-    "static/js/main.4dc01cba.chunk.js"
+    "static/js/runtime-main.d27201bd.js",
+    "static/js/2.b45b37db.chunk.js",
+    "static/css/main.77cd08ad.chunk.css",
+    "static/js/main.6f2d35a1.chunk.js"
   ]
 }
