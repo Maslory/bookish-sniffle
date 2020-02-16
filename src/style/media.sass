@@ -1,0 +1,51 @@
+
+@media screen and ( min-width: 320px)
+    // .main_content
+    //   grid-template-columns: repeat( auto-fit, minmax(698.4px, 1fr))
+    .item:nth-child(n)
+        grid-column-start: 1
+        grid-column-end: 3
+        height: 90vw
+        width: 60vw
+        margin-bottom: 5vw
+    // .item:nth-child(2)
+
+@media screen and ( min-width: 768px)
+    html
+        font-size: auto
+    .main_content
+        grid-auto-rows: minmax(1800px, auto)
+    .item:nth-child(1)
+        grid-column-start: 1
+        grid-column-end: 1
+        // grid-row-start: 1
+        // grid-row-end: 2
+    .item:nth-child(2)
+        grid-column-start: 2
+        grid-column-end: 2
+    .item:last-child
+        grid-column-start: 1
+        grid-column-end: 3
+    .item:nth-child(n)
+        // font-size: 1.25rem
+        width: 320px
+        height: 480px
+@media screen and ( min-width: 1024px)
+    .item:last-child
+        grid-column-start: 3
+        grid-column-end: 3
+    .item:nth-child(n)
+        width: 25vw
+        height: 37.5vw
+    .bottom_text
+        font-size: calc(8px + (26 - 8) * ((100vw - 1024px) / (2560 - 1024)));
+    .product_title
+        font-size: calc(12.8px + (32 - 12.8) * ((100vw - 1024px) / (2560 - 1024)));
+    .product_name
+        font-size: calc(38.4px + (96 - 38.4) * ((100vw - 1024px) / (2560 - 1024)));
+    .product_taste
+        font-size: calc(19.2px + (48 - 19.2) * ((100vw - 1024px) / (2560 - 1024)));
+    .product_number_of_servings
+        font-size: calc(11.19px + (27.9808 - 11.19) * ((100vw - 1024px) / (2560 - 1024)))
+    .product_gifts
+        font-size: calc(11.19px + (27.9808 - 11.19) * ((100vw - 1024px) / (2560 - 1024)))
